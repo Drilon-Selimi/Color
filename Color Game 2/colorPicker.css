@@ -1,0 +1,92 @@
+body{
+    
+    margin: 0;
+}
+
+
+.jumbotron {
+    
+    background-color: cornflowerblue;
+ color: white;
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainNavBar {
+    padding: 0px;
+    text-align: center;
+    background: white;
+}
+
+#actionBar {
+    
+padding-left: 300px;
+    padding-right: 300px;
+    
+}
+
+#titleColor {
+    
+    font-size: 400%;
+    text-transform: uppercase;
+    
+}
+
+#message {
+    display: inline-block;
+    width: 20%;
+    
+}
+
+.buttonColor {
+    
+    color: cornflowerblue;
+    background: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 0px;
+    
+}
+
+.buttonColor:hover {
+    
+color: white;
+    background: cornflowerblue;
+}
+
+.selected {
+    
+    color: white;
+    background: cornflowerblue;
+    
+}
+
+.square {
+    
+    background-color: white;
+    width:30%;
+    padding-bottom:30%;
+    margin: 1.6%;
+     height: 20px;
+    float: left;
+    border-radius: 15%;
+}
+
+#firstRow {
+    
+    margin: 20px auto;
+    max-width: 600px;
+    
+}
+
+#secondRow {
+    
+    margin: 20px auto;
+    max-width: 600px;
+    
+}
+body {
+    background-color: black;
+    
+}
